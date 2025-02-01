@@ -15,5 +15,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaiant&theme=radical" alt="aaiant" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaiant&show_icons=true&locale=en&layout=compact&theme=radical" alt="aaiant" />
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=aaiant&show_icons=true&locale=en&theme=radical" alt="aaiant" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaiant&show_icons=true&locale=en&theme=radical" alt="aaiant" />
+</div>
