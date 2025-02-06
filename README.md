@@ -27,10 +27,10 @@
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
   </a>
-   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
    </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </a>
 </div>
