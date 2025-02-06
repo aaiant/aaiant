@@ -1,7 +1,7 @@
 <h2 align="left">Hi there 👋 😊</h1>
 <img align="right" alt ="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZhZzlkdTZwMm04c3J4NGZ6bWNiM3c0OXNmcWJ1aHdubHNra2RqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1KoXHp1VXUqCmVUUr/giphy.gif">
 - I'm Andy!<br>
-- 🌱 I’m currently learning **Spring Boot, ELK, AWS**
+- 🌱 I’m currently learning **Spring Boot, PowerShell, AWS**
 
 - 💬 About me: **I am a graduate of the bachelor's degree programs in Navigation and Naval Management at "Mircea cel Batran" Naval Academy and Computer Science at Ovidius University of Constanta. Currently, I am pursuing a master's degree in Nautical Sciences at "Mircea cel Batran" Naval Academy.**
 
@@ -27,6 +27,9 @@
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
   </a>
+   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
+   </a>
 </div>
 
 ## Github stats
