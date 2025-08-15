@@ -1,5 +1,5 @@
 <h2 align="left">Hi there 👋 😊</h1>
-<img align="right" alt ="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZhZzlkdTZwMm04c3J4NGZ6bWNiM3c0OXNmcWJ1aHdubHNra2RqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1KoXHp1VXUqCmVUUr/giphy.gif">
+<img align="right" alt ="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU5cWwwOW5pYmN5dTZwcGx1NGF0bTJyaWp6YThxcjNkNTdqdHMxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif">
 - I'm Andy!<br>
 - 🌱 I’m currently learning **Networking & Bash scripting**
 
