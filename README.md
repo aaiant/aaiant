@@ -1,11 +1,11 @@
 <h2 align="left">Hi there 👋 😊</h1>
 <img align="right" alt ="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZhZzlkdTZwMm04c3J4NGZ6bWNiM3c0OXNmcWJ1aHdubHNra2RqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1KoXHp1VXUqCmVUUr/giphy.gif">
 - I'm Andy!<br>
-- 🌱 I’m currently learning **Spring Boot, Bash**
+- 🌱 I’m currently learning **Networking & Bash scripting**
 
-- 💬 About me: **I am a graduate of the bachelor's degree programs in Navigation and Naval Management at "Mircea cel Batran" Naval Academy and Computer Science at Ovidius University of Constanta. Currently, I am pursuing a master's degree in Nautical Sciences at "Mircea cel Batran" Naval Academy.**
+- 💬 About me: **I hold a bachelor's degree in Maritime Engineering, with a specialization in Navigation and Maritime and Inland Waterway Transport, from the 'Mircea cel Bătrân' Naval Academy, and a bachelor's degree in Computer Science from Ovidius University of Constanța. Currently, I am pursuing a master's degree in Nautical Sciences at the 'Mircea cel Bătrân' Naval Academy and a master's degree in Cyber Security and Risk Management at Constanța Maritime University. Additionally, I am a deck cadet with CMA CGM Group France.**
 
-- 📫 How to reach me **andy.ant.aai5@gmail.com**
+- 📫 How to reach me **antohi.andi.ionel@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -63,9 +63,5 @@
 
 ## Github stats
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaiant&theme=radical" alt="aaiant" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaiant&show_icons=true&locale=en&layout=compact&theme=radical" alt="aaiant" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaiant&show_icons=true&locale=en&theme=radical" alt="aaiant" />
 </div>
