@@ -1,7 +1,7 @@
 <h2 align="left">Hi there 👋 😊</h1>
 <img align="right" alt ="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU5cWwwOW5pYmN5dTZwcGx1NGF0bTJyaWp6YThxcjNkNTdqdHMxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif">
 - I'm Andy!<br>
-- 🌱 I’m currently learning **Networking & Bash scripting**
+- 🌱 I’m currently learning **Spring Boot & FastAPI**
 
 - 💬 About me: **I hold a bachelor's degree in Maritime Engineering, with a specialization in Navigation and Maritime and Inland Waterway Transport, from the 'Mircea cel Bătrân' Naval Academy, and a bachelor's degree in Computer Science from Ovidius University of Constanța. Currently, I am pursuing a master's degree in Nautical Sciences at the 'Mircea cel Bătrân' Naval Academy and a master's degree in Cyber Security and Risk Management at Constanța Maritime University. Additionally, I am a deck cadet with CMA CGM Group France.**
 
