@@ -3,13 +3,13 @@
 <img align="right" alt="machine learning" width="400" 
 src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
-- 📚 Currently learning **Spring Boot, Machine Learning (Python)** & **Linux**  
+- 📚 Currently learning **Machine Learning (Python)** & **Linux**  
 - 🧠 Transitioning towards **Data Science**  
 - ⚡ Interested in building systems that **collect, process and analyze data at scale**
 
 - 💬 About me:  
 **Junior Java Developer with backend foundation, currently transitioning towards Data Science**<br>
-**My goal: Build end-to-end data pipelines on Ubuntu, contributing to data ingestion with Java (Spring Boot) and using Python for Data Science.**
+**My goal: Build end-to-end data pipelines on Ubuntu, contributing to data ingestion with Java and using Python for Data Science.**
 - 📫 How to reach me **antohi.andi.ionel@gmail.com**
 
 ---
@@ -24,15 +24,6 @@ src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
        alt="Java" width="40" height="40"/>
-</a>
-
----
-
-<h3 align="left">⚙️ Frameworks & Technologies:</h3>
-
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" 
-       alt="Spring Boot" width="40" height="40"/>
 </a>
 
 ---
@@ -76,7 +67,7 @@ src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 <h3 align="left">📌 Career Direction:</h3>
 
 - Transition into **Data Science**  
-- In the future, I aim to build scalable data pipelines using Java & Spring Boot, while deepening my expertise to design fast, modern, and efficient pipelines for Big Data ecosystems
+- In the future, I aim to build scalable data pipelines using Java, while deepening my expertise to design fast, modern, and efficient pipelines for Big Data ecosystems
 - Apply Machine Learning models to real-world datasets  
 
 ---
