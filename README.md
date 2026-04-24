@@ -1,6 +1,6 @@
 <h2 align="left">👨‍💻 Welcome to my GitHub Profile</h2>
 
-<img align="right" alt="machine learning" width="400" 
+<img align="right" alt="machine learning" width="400"
 src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 - 📚 Currently learning **Machine Learning (Python)** & **Linux**  
@@ -10,19 +10,20 @@ src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 - 💬 About me:  
 **Junior Java Developer with backend foundation, currently transitioning towards Data Science**<br>
 **My goal: Build end-to-end data pipelines on Ubuntu, contributing to data ingestion with Java and using Python for Data Science.**
+
 - 📫 How to reach me **antohi.andi.ionel@gmail.com**
 
 ---
 
 <h3 align="left">🚀 Programming Languages:</h3>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+<a href="https://www.python.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
        alt="Python" width="40" height="40"/>
 </a>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+<a href="https://www.java.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
        alt="Java" width="40" height="40"/>
 </a>
 
@@ -30,45 +31,66 @@ src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <h3 align="left">🧠 Machine Learning & Data Focus:</h3>
 
-<img align="right" alt="ai gif" width="300" 
+<img align="right" alt="ai gif" width="300"
 src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 - Supervised Learning:
   - Classification  
   - Regression  
-- Time Series Analysis 
+- Time Series Analysis
 
 ---
 
 <h3 align="left">💻 Linux & Networking:</h3>
 
 - Linux fundamentals
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"
+       alt="Ubuntu" width="40" height="40"/>
+</a>
+
 - Network scanning & analysis with **Nmap**
-<a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40"/> </a>
+<a href="https://nmap.org/" target="_blank">
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="40" height="40"/>
+</a>
+
+- Password management with **KeePassXC**
+<a href="https://keepassxc.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/keepassxc" width="40" height="40"/>
+</a>
+
+- Secure file synchronization with **Syncthing**
+<a href="https://syncthing.net/" target="_blank">
+  <img src="https://cdn.simpleicons.org/syncthing" width="40" height="40"/>
+</a>
+
+- Password recovery & hash auditing with **Hashcat**
+<a href="https://hashcat.net/hashcat/" target="_blank">
+  <img src="https://cdn.simpleicons.org/hashcat" width="40" height="40"/>
 </a>
 
 ---
 
 <h3 align="left">🗄️ Databases & Tools:</h3>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-       alt="MySQL" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-       alt="PostgreSQL" width="40" height="40"/>
-</a>
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+         alt="PostgreSQL" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
 <h3 align="left">📌 Career Direction:</h3>
 
 - Transition into **Data Science**  
-- In the future, I aim to build scalable data pipelines using Java, while deepening my expertise to design fast, modern, and efficient pipelines for Big Data ecosystems
-- Apply Machine Learning models to real-world datasets  
+- Build scalable data pipelines using Java  
+- Deepen Python expertise for analytics & Machine Learning  
+- Apply Machine Learning models to real-world datasets
 
 ---
 
