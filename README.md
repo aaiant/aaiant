@@ -66,7 +66,7 @@ src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
  Remote server access with **OpenSSH**
 <a href="https://www.openssh.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/openssh" width="40" height="40"/>
+    <img src="https://api.iconify.design/mdi:ssh.svg?color=%23FCC624" width="40" height="40"/>
 </a>
 
 ---
