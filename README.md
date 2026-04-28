@@ -64,9 +64,9 @@ src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
   <img src="https://cdn.simpleicons.org/syncthing" width="40" height="40"/>
 </a>
 
-- Password recovery & hash auditing with **Hashcat**
-<a href="https://hashcat.net/hashcat/" target="_blank">
-  <img src="https://cdn.simpleicons.org/hashcat" width="40" height="40"/>
+ Remote server access with **OpenSSH**
+<a href="https://www.openssh.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/openssh" width="40" height="40"/>
 </a>
 
 ---
