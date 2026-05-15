@@ -3,15 +3,15 @@
 <img align="right" alt="machine learning" width="400"
 src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
-- 📚 Currently learning **Machine Learning (Python)** & **Linux**  
-- 🧠 Transitioning towards **Data Science**  
-- ⚡ Interested in building systems that **collect, process and analyze data at scale**
+- 📚 Currently learning **Machine Learning (Python)** & **Cybersecurity**
+- 🧠 Transitioning towards **Data Science**, combining Java backend with Python-driven analytics
+- 🛡️ Hands-on practice via **TryHackMe**, building a self-hosted security lab on Ubuntu
 
-- 💬 About me:  
-**Junior Java Developer with backend foundation, currently transitioning towards Data Science**<br>
-**My goal: Build end-to-end data pipelines on Ubuntu, contributing to data ingestion with Java and using Python for Data Science.**
+- 💬 **Junior Java Developer** transitioning towards Data Science —
+building end-to-end data pipelines on Ubuntu, within a self-hosted
+security lab environment designed around industry best practices.
 
-- 📫 How to reach me **antohi.andi.ionel@gmail.com**
+- 📫 How to reach me: **antohi.andi.ionel@gmail.com**
 
 ---
 
@@ -27,6 +27,10 @@ src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
        alt="Java" width="40" height="40"/>
 </a>
 
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://api.iconify.design/devicon:bash.svg" width="40" height="40"/>
+</a>
+
 ---
 
 <h3 align="left">🧠 Machine Learning & Data Focus:</h3>
@@ -35,9 +39,8 @@ src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 - Supervised Learning:
-  - Classification  
-  - Regression  
-- Time Series Analysis
+  - Classification
+  - Regression
 
 ---
 
@@ -64,9 +67,14 @@ src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
   <img src="https://cdn.simpleicons.org/syncthing" width="40" height="40"/>
 </a>
 
- Remote server access with **OpenSSH**
+- Remote server access with **OpenSSH**
 <a href="https://www.openssh.com/" target="_blank">
-    <img src="https://api.iconify.design/mdi:ssh.svg?color=%23FCC624" width="40" height="40"/>
+  <img src="https://api.iconify.design/mdi:ssh.svg?color=%23FCC624" width="40" height="40"/>
+</a>
+
+- Firewall management & network perimeter security with **iptables / netfilter**
+<a href="https://netfilter.org/" target="_blank">
+  <img src="https://api.iconify.design/mdi:firewall.svg?color=%23FCC624" width="40" height="40"/>
 </a>
 
 ---
@@ -87,10 +95,9 @@ src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 <h3 align="left">📌 Career Direction:</h3>
 
-- Transition into **Data Science**  
-- Build scalable data pipelines using Java  
-- Deepen Python expertise for analytics & Machine Learning  
-- Apply Machine Learning models to real-world datasets
+- Transition into **Data Science** via Python analytics & ML
+- Build **end-to-end data pipelines**, from Java backend ingestion to ML-ready outputs
+- Apply **Machine Learning** to real-world datasets, starting with the energy sector
 
 ---
 
